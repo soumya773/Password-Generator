@@ -8,8 +8,7 @@ This is a simple password generator web application built using HTML, CSS, and J
 - Customize password complexity by including uppercase letters, lowercase letters, numbers, and special characters.
 - Copy generated passwords to the clipboard with a single click.
 
-## Demo
-[View Demo](http://127.0.0.1:5500/index.html)
+
 
 ## Installation
 To use this password generator locally, follow these steps:
